@@ -1,2 +1,2 @@
-# mpcracing
-Simple Domain name front
+# MPC Racing
+Simple webpage for www.mpcracing.no
